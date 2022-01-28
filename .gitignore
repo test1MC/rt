@@ -5,7 +5,7 @@
 ######################################################################################
 
 # MadCap file patterns
-/test
+/content/apple
 /Output
 /Analyzer
 /FileSync
